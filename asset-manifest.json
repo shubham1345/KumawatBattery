@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/KumawatBattery/static/css/main.22ca4685.css",
+    "main.js": "/KumawatBattery/static/js/main.74e7251a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/KumawatBattery/static/js/787.28cb0dcd.chunk.js",
+    "static/media/car.jpg": "/KumawatBattery/static/media/car.8657a6bbcb1a66d0632b.jpg",
+    "index.html": "/KumawatBattery/index.html",
+    "main.22ca4685.css.map": "/KumawatBattery/static/css/main.22ca4685.css.map",
+    "main.74e7251a.js.map": "/KumawatBattery/static/js/main.74e7251a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/KumawatBattery/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22ca4685.css",
+    "static/js/main.74e7251a.js"
+  ]
+}
