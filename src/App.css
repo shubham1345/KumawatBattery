@@ -1,0 +1,14 @@
+.header{
+  background-color: darkorange;
+  color: whitesmoke;
+  text-align: center;
+}
+.footer{
+  
+  color:darkorange;
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+  background-color: black;
+  width: 1400px;
+}
